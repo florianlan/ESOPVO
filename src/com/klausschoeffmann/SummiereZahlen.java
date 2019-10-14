@@ -1,4 +1,4 @@
-package com.KlausSchoeffmann;
+package com.klausschoeffmann;
 
 public class SummiereZahlen {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.KlausSchoeffmann;
+package com.klausschoeffmann;
 
 public class Switch {
     public static void main(String[] args) {

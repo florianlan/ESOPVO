@@ -1,4 +1,4 @@
-package com.KlausSchoeffmann;
+package com.klausschoeffmann;
 
 public class ZahlenUndAusdruecke {
     public static void main(String[] args) {
